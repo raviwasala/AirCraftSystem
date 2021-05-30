@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.v1.AirCraftController.Create(Application.Features.AirCraftFeatures.Commands.CreateAirCraftCommand)">
+            <summary>
+            Creates a New Aircraft.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.v1.AirCraftController.GetAll">
+            <summary>
+            Gets all Aircrafts.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.v1.AirCraftController.GetById(System.Int32)">
+            <summary>
+            Gets Aircraft Entity by Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.v1.AirCraftController.Delete(System.Int32)">
+            <summary>
+            Deletes Aircraft Entity based on Id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.v1.AirCraftController.Update(System.Int32,Application.Features.AirCraftFeatures.Commands.UpdateAirCraftCommand)">
+            <summary>
+            Updates the Aircraft Entity based on Id.   
+            </summary>
+            <param name="id"></param>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

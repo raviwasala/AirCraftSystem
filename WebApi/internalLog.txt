@@ -1,0 +1,15 @@
+2021-05-26 12:42:05.4056 Info Message Template Auto Format enabled
+2021-05-26 12:42:05.4237 Info Loading assembly: NLog.Web.AspNetCore
+2021-05-26 12:42:05.4797 Info Adding target FileTarget(Name=alldata)
+2021-05-26 12:42:05.4797 Info Adding target FileTarget(Name=otherFile-web)
+2021-05-26 12:42:05.5491 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Test\Rusada\PTAircraftSys\WebApi\bin\Debug\net5.0\nlog.config
+2021-05-26 12:45:43.7179 Info Message Template Auto Format enabled
+2021-05-26 12:45:43.7297 Info Loading assembly: NLog.Web.AspNetCore
+2021-05-26 12:45:43.7733 Info Adding target FileTarget(Name=alldata)
+2021-05-26 12:45:43.7733 Info Adding target FileTarget(Name=otherFile-web)
+2021-05-26 12:45:43.8131 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Test\Rusada\PTAircraftSys\WebApi\bin\Debug\net5.0\nlog.config
+2021-05-26 12:48:18.5590 Info Message Template Auto Format enabled
+2021-05-26 12:48:18.5722 Info Loading assembly: NLog.Web.AspNetCore
+2021-05-26 12:48:18.6233 Info Adding target FileTarget(Name=alldata)
+2021-05-26 12:48:18.6343 Info Adding target FileTarget(Name=otherFile-web)
+2021-05-26 12:48:18.6680 Info Validating config: TargetNames=alldata, otherFile-web, ConfigItems=45, FilePath=D:\Test\Rusada\PTAircraftSys\WebApi\bin\Debug\net5.0\nlog.config
